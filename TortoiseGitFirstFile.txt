@@ -1,5 +1,9 @@
 Test
 
 Test from browser 
+<<<<<<< HEAD
 
 add 5 line offline
+=======
+Add line 4  from browser
+>>>>>>> d263d5bef06290caae1653903f0473806d89a15e
